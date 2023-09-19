@@ -1,0 +1,49 @@
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\bin\Release\Divulgador.exe.config
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\bin\Release\Divulgador.exe.manifest
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\bin\Release\Divulgador.application
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\bin\Release\Divulgador.exe
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\bin\Release\Divulgador.xml
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\bin\Release\Interop.WMPLib.dll
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Interop.WMPLib.dll
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.vbproj.ResolveComReference.cache
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.DialogKey.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.Form1.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.FormConfig.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.FormLoginRest.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.Formquemsomos.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.FormRestrito.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.FormSobre.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.frmPrincipal.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.Resources.resources
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.vbproj.GenerateResource.Cache
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.exe.manifest
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.application
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.exe
+C:\Users\Anderson\Desktop\teste  divulagador\Divulgador\obj\Release\Divulgador.xml
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\bin\Release\Divulgador.exe.config
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Interop.WMPLib.dll
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.vbproj.ResolveComReference.cache
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.exe
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.xml
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\bin\Release\Divulgador.exe.manifest
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\bin\Release\Divulgador.application
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\bin\Release\Divulgador.exe
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\bin\Release\Divulgador.xml
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\bin\Release\Interop.WMPLib.dll
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.vbprojResolveAssemblyReference.cache
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.DialogKey.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.Form1.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.FormConfig.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.FormLoginRest.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.Formquemsomos.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.FormRestrito.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.FormSobre.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.frmPrincipal.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.Resources.resources
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.vbproj.GenerateResource.Cache
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.exe.manifest
+C:\Users\Anderson\source\repos\Locutor Digital Simples_amostra\Divulgador\obj\Release\Divulgador.application
